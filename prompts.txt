@@ -1,0 +1,774 @@
+Create a modern, aesthetic, fully structured website for a literary café with the following details.
+
+Business Name: Between the Pages
+Tagline: Lose yourself in books and find yourself in a coffee.
+Location: Jaipur, Rajasthan
+Positioning: Mid-range, student-friendly literary café
+Target Audience: College girls, Bookstagram creators, freelancers, writers, couples, and solo readers.
+
+Tone: Cozy, warm, aesthetic, slightly poetic but clear and benefit-driven.
+Language should feel human, inviting, and specific to a literary café — not generic AI text.
+
+WEBSITE STRUCTURE
+
+Create the website with the following sections:
+
+1️⃣ HERO SECTION
+
+Include:
+
+Headline (clear value proposition):
+More Than a Café. A Place Between the Pages.
+
+Subheadline:
+A cozy literary café in Jaipur designed for readers, writers, and dreamers who want beautiful spaces, meaningful conversations, and unforgettable coffee.
+
+Primary CTA Buttons:
+
+Reserve a Table
+
+Explore the Menu
+
+Navigation Bar:
+Home | Services | Menu | Events | Visit Us | Reserve a Table (highlighted button)
+
+2️⃣ WHAT WE OFFER (Services Section)
+
+Create visually separated sections with image + text layout.
+
+☕ Coffee & Beverages
+
+Describe high-quality coffee crafted for long reading sessions and deep conversations.
+
+Include:
+
+Espresso
+
+Cappuccino
+
+Latte
+
+Flat White
+
+Cold Brew
+
+Matcha Latte
+
+Masala Chai
+
+Seasonal Signature Drinks
+
+Highlight:
+Student-friendly pricing.
+Comfort for long stays.
+
+📚 Book Library & Reading Space
+
+Describe a curated library with 3,000+ books across genres:
+
+Thriller
+
+Romance
+
+Contemporary Fiction
+
+Self-Help
+
+Classical Literature
+
+Poetry
+
+Mention:
+
+Large windows with natural sunlight
+
+Indoor green plants
+
+Floor-to-ceiling wooden shelves
+
+Wooden ladder to reach higher books
+
+Dedicated quiet reading zones
+
+Discussion tables
+
+Instagram-worthy aesthetic corners
+
+Monthly staff recommendations
+
+🎭 Events & Community
+
+Describe community-driven experiences:
+
+Weekly Book Clubs
+
+Poetry Nights
+
+Writers’ Meetups
+
+Open Mic Evenings
+
+Reading Challenges
+
+Couple Reading Date Nights
+
+Make it feel like a creative hub in Jaipur.
+
+3️⃣ AMBIENCE SECTION
+
+Create an emotional section titled:
+
+A Space Designed to Stay
+
+Describe:
+Warm wooden interiors
+Sunlit reading corners
+Cozy armchairs
+Soft instrumental background music
+Plant-filled aesthetic spaces
+Calm productivity atmosphere
+
+Make it immersive and sensory.
+
+4️⃣ WHY JAIPUR CHOOSES BETWEEN THE PAGES
+
+Add a bold, dark-background trust section with statistics:
+
+3,000+ Books
+5 Dedicated Reading Zones
+8+ Events Monthly
+4.8★ Student Favorite
+
+Add persuasive copy explaining:
+Not every café lets you stay for hours.
+Not every bookstore serves great coffee.
+We beautifully combine both.
+
+5️⃣ MENU SECTION
+
+Create a clean, organized menu with pricing placeholders.
+
+Coffee:
+
+Espresso
+
+Americano
+
+Cappuccino
+
+Latte
+
+Flat White
+
+Mocha
+
+Caramel Macchiato
+
+Hazelnut Latte
+
+Cold Brew
+
+Specialty Drinks:
+
+Matcha Latte
+
+Masala Chai
+
+Iced Vanilla Latte
+
+Cinnamon Honey Brew
+
+Sides & Snacks:
+
+Garlic Bread
+
+Cheese Croissant
+
+Chocolate Brownie
+
+Blueberry Muffin
+
+Veg Sandwich
+
+Pasta (Red/White Sauce)
+
+Nachos
+
+Pancakes
+
+Waffles
+
+Mention mid-range student-friendly pricing.
+
+6️⃣ MADE FOR SECTION
+
+Create a section that highlights target audience:
+
+Between the Pages is made for:
+
+College girls
+
+Bookstagram creators
+
+Freelancers
+
+Writers
+
+Couples
+
+Solo readers
+
+Make it feel inclusive and community-focused.
+
+7️⃣ STRONG CTA SECTION
+
+Create an emotional call-to-action section:
+
+Headline:
+Ready to lose yourself in books and find yourself in a coffee?
+
+Buttons:
+
+Reserve Your Table
+
+Join Our Next Book Club
+
+Visit Us in Jaipur Today
+
+Add urgency:
+Limited quiet tables during weekends — book early.
+
+8️⃣ FOOTER SECTION
+
+Include:
+
+Business Name
+Jaipur, Rajasthan
+Opening Hours: Mon–Sun, 9am–9pm
+Instagram: @betweenthepagesjaipur
+Quick Links
+Copyright line
+
+DESIGN DIRECTION
+
+Use:
+Earthy brown, beige, and sage green tones.
+Elegant serif headings.
+Minimalist but cozy layout.
+Warm lighting photography style.
+
+The final output must be:
+✔ Clear and benefit-driven
+✔ Business-specific
+✔ Emotional but professional
+✔ Website-ready
+✔ Structured in clean sections
+
+Do not write generic content. Make it feel real, detailed, and premium.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@file:src/components/ui This must NOT be a single scrolling website.
+
+It must be a multi-page structured website.
+
+Each navigation item must open a separate page:
+
+Home
+
+Services
+
+Menu
+
+Events
+
+Visit Us
+
+Additionally:
+
+“Reserve a Table” must be a navigation button that opens a modal popup (NOT a separate page).
+
+No long single-page scrolling layout is allowed.
+
+🔘 BUTTON FUNCTIONALITY REQUIREMENT
+
+All buttons must perform real actions.
+No placeholder buttons.
+
+Navigation Buttons
+
+Home → Opens Home page
+
+Services → Opens Services page
+
+Menu → Opens Menu page
+
+Events → Opens Events page
+
+Visit Us → Opens Visit Us page
+
+Action Buttons
+
+Reserve a Table → Opens centered rectangular modal popup
+
+Explore the Menu → Opens Menu page
+
+Join Our Next Event → Opens modal popup
+
+All buttons must include:
+
+Subtle hover animation
+
+Smooth transition (0.3s)
+
+Color change on hover (Sage Green → Muted Gold)
+
+📦 MODAL POPUP REQUIREMENT (VERY IMPORTANT)
+
+When clicking:
+
+“Reserve a Table”
+
+“Join Our Next Event”
+
+A centered rectangular modal popup must appear.
+
+Modal Design:
+
+Rectangular box
+
+Soft rounded corners
+
+Warm beige background
+
+Subtle shadow
+
+Fade-in animation
+
+Background must dim or slightly blur
+
+Close (×) icon in top right
+
+Clicking outside closes modal
+
+Reservation Modal Fields:
+
+Name
+
+Phone Number
+
+Date
+
+Time
+
+Number of Guests
+
+Submit Button
+
+After submission show confirmation message inside modal:
+
+“Your table has been reserved successfully. We look forward to welcoming you at Between the Pages.”
+
+🏠 HOME PAGE CONTENT
+Hero Section
+
+Headline:
+More Than a Café. A Place Between the Pages.
+
+Subheadline:
+A cozy literary café in Jaipur designed for readers, writers, and dreamers who want beautiful spaces, meaningful conversations, and unforgettable coffee.
+
+CTA Buttons:
+
+Reserve a Table
+
+Explore the Menu
+
+Introduction Section
+
+Between the Pages is a book café in Jaipur featuring 3,000+ curated books, peaceful reading zones, aesthetic interiors, and a calm, study-friendly atmosphere.
+
+It is where productivity meets poetry.
+
+Why Jaipur Chooses Between the Pages
+
+Display trust indicators:
+
+3,000+ Books
+5 Dedicated Reading Zones
+8+ Events Monthly
+4.8★ Student Favorite
+
+Include persuasive copy explaining that not every café lets you stay for hours and not every bookstore serves great coffee — this place combines both beautifully.
+
+📚 SERVICES PAGE
+Coffee & Beverages
+
+Include:
+
+Espresso
+
+Americano
+
+Cappuccino
+
+Latte
+
+Flat White
+
+Mocha
+
+Caramel Macchiato
+
+Hazelnut Latte
+
+Cold Brew
+
+Matcha Latte
+
+Masala Chai
+
+Seasonal Signature Drinks
+
+Highlight comfort for long reading sessions and welcoming student-friendly environment.
+
+Book Library & Reading Space
+
+Describe:
+
+3,000+ curated books
+
+Thriller
+
+Romance
+
+Contemporary Fiction
+
+Self-Help
+
+Classical Literature
+
+Poetry
+
+Interior details:
+
+Large windows with natural sunlight
+
+Indoor green plants
+
+Floor-to-ceiling wooden shelves
+
+Wooden ladder for higher books
+
+Quiet reading zones
+
+Discussion tables
+
+Instagram-worthy aesthetic corners
+
+Monthly staff recommendations
+
+🎭 EVENTS PAGE
+
+Include:
+
+Weekly Book Clubs
+
+Poetry Nights
+
+Writers’ Meetups
+
+Open Mic Evenings
+
+Reading Challenges
+
+Couple Reading Date Nights
+
+Include CTA:
+“Join Our Next Event” → Opens modal popup
+
+Position it as a creative community hub in Jaipur.
+
+☕ MENU PAGE
+
+Do NOT display prices.
+
+Create clean structured sections.
+
+Coffee
+
+Espresso
+Americano
+Cappuccino
+Latte
+Flat White
+Mocha
+Caramel Macchiato
+Hazelnut Latte
+Cold Brew
+
+Specialty Drinks
+
+Matcha Latte
+Masala Chai
+Iced Vanilla Latte
+Cinnamon Honey Brew
+
+Sides & Snacks
+
+Garlic Bread
+Cheese Croissant
+Chocolate Brownie
+Blueberry Muffin
+Veg Sandwich
+Pasta (Red/White Sauce)
+Nachos
+Pancakes
+Waffles
+
+At the bottom include this exact line:
+
+Explore an extended selection of seasonal dishes and handcrafted desserts waiting for you at the café.
+
+📍 VISIT US PAGE
+
+Include:
+
+Jaipur, Rajasthan (address placeholder)
+
+Opening Hours: Mon–Sun, 9am–9pm
+
+Google Maps integration placeholder
+
+Contact number placeholder
+
+Instagram: @betweenthepagesjaipur
+
+Add urgency line:
+
+Limited quiet tables during weekends — book early.
+
+
+
+
+
+
+
+
+
+
+
+
+Multi-Page Navigation (Must Open in New Page)
+
+The following navigation items must open as separate dedicated pages:
+
+Home
+
+Services
+
+Menu
+
+Events
+
+Visit Us
+
+Each must load as a full new page with its own structured layout.
+
+No modal popups are allowed for these main navigation pages.
+
+🪟 Modal Popup Rule (For All Other Buttons)
+
+Every other clickable button across the website must open a centered modal popup instead of redirecting to a new page.
+
+This includes:
+
+Reserve a Table
+
+Join Our Next Event
+
+Event Cards (Weekly Book Club, Poetry Nights, Writers' Meetups, etc.)
+
+Drink buttons (Espresso, Latte, etc.)
+
+Genre buttons (Thriller, Mystery, Fantasy, etc.)
+
+Any “Learn More” or tag-style buttons
+
+No secondary pages must be created for these actions.
+
+📦 Modal Design System (Universal Structure Only)
+
+All modals must follow one consistent structural design:
+
+Centered rectangular layout
+
+Soft rounded corners
+
+Subtle drop shadow
+
+Smooth fade-in animation
+
+Slight background dim or blur effect
+
+Close (×) icon at the top-right corner
+
+Clicking outside the modal must close it
+
+All modals across the website must look consistent and follow the same layout system.
+
+✨ Emotional Content Requirement (IMPORTANT)
+
+Whenever a popup opens — especially for:
+
+Event cards
+
+Reservation
+
+Join Event
+
+Genre selections
+
+Featured drinks
+
+The modal must include short emotional or poetic lines where appropriate.
+
+Examples of tone (not exact text, but style direction):
+
+Invite the user gently into the experience
+
+Create warmth and intimacy
+
+Reflect the feeling of books, coffee, connection, and quiet moments
+
+Make the user feel like they are stepping into something meaningful
+
+Event popups must include:
+
+A deeper, emotionally engaging description
+
+A welcoming line that feels personal
+
+A closing line that encourages participation gently
+
+The tone should feel literary, calm, and immersive — not corporate or transactional.
+
+🔘 Interaction Logic Summary
+
+Main Navigation Pages → Open as full new pages
+All Other Buttons → Open as modal popups
+
+Event Cards → Open detailed emotional popup
+Reservation → Open reservation form inside modal
+Join Event → Open participation form inside modal
+
+No button should appear clickable without performing a visible action.
+
+Every interaction must feel intentional and complete.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Services Section Modal Prompt
+
+Section Name: Services Features
+Items Requiring Modals:
+
+Sunlit Corners
+
+Cozy Armchairs
+
+Soft Instrumentals
+
+Plant-Filled Spaces
+
+Warm Interiors
+
+Reading Nooks
+
+Modal Rules for Services Section
+
+Every feature card must open a modal popup instead of navigating anywhere.
+
+Modal Structure (consistent with global modal design):
+
+Centered rectangular layout
+
+Soft rounded corners
+
+Subtle drop shadow
+
+Smooth fade-in animation
+
+Slight background dim or blur effect
+
+Close (×) icon top-right
+
+Clicking outside closes modal
+
+Content Style Inside Modal:
+
+Short, emotional, or poetic lines
+
+Invite users to experience the space rather than just read about it
+
+Tone: literary, calm, warm, immersive, intimate
+
+Include one welcoming line, one deeper description, and one gentle closing line
+
+Examples of Tone/Structure for Each Modal:
+
+Sunlit Corners:
+
+“Golden light spills across your table, tracing the edges of your thoughts. Let the afternoon sun warm your ideas and your heart. Stay awhile, let time slow around you.”
+
+Cozy Armchairs:
+
+“Sink into a chair that hugs you back. Hours slip by unnoticed, wrapped in comfort, surrounded by quiet inspiration.”
+
+Soft Instrumentals:
+
+“Gentle notes drift through the air, never intrusive, always soothing. Let the music be your companion as you read, write, or simply breathe.”
+
+Plant-Filled Spaces:
+
+“Green whispers of life surround you, calming your mind and refreshing your spirit. Every leaf invites a moment of pause.”
+
+Warm Interiors:
+
+“Rich textures, wooden tones, and soft lighting make every corner feel like a story waiting to be told. Feel at home, always.”
+
+Reading Nooks:
+
+“Quiet corners where the world fades, leaving only words, thoughts, and your imagination. Enter and lose yourself beautifully.”
+
+Interaction Logic:
+
+Clicking any card → Opens corresponding modal
+
+Closing modal → Returns user to the Services page without reloading
+
+No secondary pages created for these interactions
